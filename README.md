@@ -1,3 +1,5 @@
+Go to [about page](Instrucciones.md)
+
 Universidad Nacional de Colombia
 
 Fundamentos de Robótica Móvil
