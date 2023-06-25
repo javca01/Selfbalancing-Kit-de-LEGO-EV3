@@ -1,3 +1,9 @@
+---
+title: Instrucciones
+layout: template
+filename: Instrucciones.md
+--- 
+
 # Instrucciones
 
 ## Cargar programa al robot
