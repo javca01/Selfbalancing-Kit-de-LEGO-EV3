@@ -81,7 +81,7 @@ El sistemas Selfbalancing desarrollado sobre el robot EV3 bajo el montaje Gyro b
 
 <p>El video de funcionamiento puede apreciarse a través del siguiente enlace: <a href="https://www.youtube.com/watch?v=j_1jOWG-_PM"><img src="https://i.postimg.cc/5977gB14/Segway-EV3-en-rampa.png" alt="Selfbalancing EV3" title="Selfbalancing EV3" width="118" height="70"></a></p>
 
-## Instrucciones para controlar el roboto con el control remoto.
+## Instrucciones para controlar el robot con el control remoto.
 Dando [clic aquí](Instrucciones.md) podrás ir a la página donde se explican los comandos del control IR para poder manejar el robot.
 
 ## Referencias
